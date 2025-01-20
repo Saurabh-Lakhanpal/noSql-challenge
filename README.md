@@ -1,8 +1,10 @@
 # NoSql-challenge
+The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. Evaluate some of the ratings data in order to help a food magazine editors, to e journalists and food critics decide where to focus future articles.
+
+## Solution
+
 
 ## Instructions
-
-The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. Evaluate some of the ratings data in order to help a food magazine editors, to e journalists and food critics decide where to focus future articles.
 
 ### Part 1: Database and Jupyter Notebook Set Up
 
