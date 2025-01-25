@@ -2,9 +2,9 @@
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. Evaluate some of the ratings data in order to help a food magazine editors, to e journalists and food critics decide where to focus future articles.
 
 ## Solution
-- [Extract Load and Transform file](https://github.com/Saurabh-Lakhanpal/noSql-challenge/blob/main/NoSQL_setup.ipynb)
+- [Mongo ETL file](https://github.com/Saurabh-Lakhanpal/noSql-challenge/blob/main/NoSQL_setup.ipynb)
 - [Transformed json](https://github.com/Saurabh-Lakhanpal/noSql-challenge/blob/main/Resources/transformed_establishments.json)
-- [NoSql Analysis file](https://github.com/Saurabh-Lakhanpal/noSql-challenge/blob/main/NoSQL_analysis.ipynb)
+- [Mongo Analysis file](https://github.com/Saurabh-Lakhanpal/noSql-challenge/blob/main/NoSQL_analysis.ipynb)
 
 ## Instructions
 
