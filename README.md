@@ -3,8 +3,8 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 ## Solution
 - [Mongo ETL file](https://github.com/Saurabh-Lakhanpal/noSql-challenge/blob/main/NoSQL_setup.ipynb)
-- [Transformed json](https://github.com/Saurabh-Lakhanpal/noSql-challenge/blob/main/Resources/transformed_establishments.json)
 - [Mongo Analysis file](https://github.com/Saurabh-Lakhanpal/noSql-challenge/blob/main/NoSQL_analysis.ipynb)
+- [Transformed json](https://github.com/Saurabh-Lakhanpal/noSql-challenge/blob/main/Resources/transformed_establishments.json)
 
 ## Instructions
 
