@@ -8,6 +8,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 ## Instructions
 
+- [Raw json file](https://github.com/Saurabh-Lakhanpal/noSql-challenge/blob/main/Resources/establishments.json)
 ### Part 1: Database and Jupyter Notebook Set Up
 
 - Use `NoSQL_setup_starter.ipynb` for this section of the challenge.
